@@ -1,0 +1,13 @@
+c:\users\neuron\documents\visual studio 2015\Projects\Parser_Html\Parser_Html\bin\Debug\Parser_Html.exe.config
+c:\users\neuron\documents\visual studio 2015\Projects\Parser_Html\Parser_Html\bin\Debug\Parser_Html.exe
+c:\users\neuron\documents\visual studio 2015\Projects\Parser_Html\Parser_Html\bin\Debug\Parser_Html.pdb
+c:\users\neuron\documents\visual studio 2015\Projects\Parser_Html\Parser_Html\bin\Debug\AngleSharp.dll
+c:\users\neuron\documents\visual studio 2015\Projects\Parser_Html\Parser_Html\bin\Debug\CsQuery.dll
+c:\users\neuron\documents\visual studio 2015\Projects\Parser_Html\Parser_Html\bin\Debug\FileHelpers.dll
+c:\users\neuron\documents\visual studio 2015\Projects\Parser_Html\Parser_Html\bin\Debug\AngleSharp.xml
+c:\users\neuron\documents\visual studio 2015\Projects\Parser_Html\Parser_Html\bin\Debug\CsQuery.pdb
+c:\users\neuron\documents\visual studio 2015\Projects\Parser_Html\Parser_Html\bin\Debug\CsQuery.xml
+c:\users\neuron\documents\visual studio 2015\Projects\Parser_Html\Parser_Html\bin\Debug\FileHelpers.xml
+c:\users\neuron\documents\visual studio 2015\Projects\Parser_Html\Parser_Html\obj\Debug\Parser_Html.csprojResolveAssemblyReference.cache
+c:\users\neuron\documents\visual studio 2015\Projects\Parser_Html\Parser_Html\obj\Debug\Parser_Html.exe
+c:\users\neuron\documents\visual studio 2015\Projects\Parser_Html\Parser_Html\obj\Debug\Parser_Html.pdb
