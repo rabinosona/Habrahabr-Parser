@@ -1,2 +1,2 @@
 # Habrahabr-Parser
-A little parser for habrahabr that is searching for key word, reading a title name + link from the articles, converting it to .csv and sending it to chosen e-mail
+Here is my code for connecting to the server. Habrahabr.ru - is a russian programmists community.
